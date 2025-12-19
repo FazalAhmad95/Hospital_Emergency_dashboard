@@ -1,1 +1,14 @@
+This project presents an interactive Hospital Emergency Dashboard designed to monitor and analyze emergency department performance. The dashboard helps stakeholders track patient flow, response times, and resource utilization to support faster decision-making and improved patient care.
 
+Key Highlights:
+
+Cleaned and transformed hospital emergency data using Advanced Excel, Power Query, and Power Pivot.
+
+Designed an interactive dashboard to track total emergency visits, average waiting time, patient admission status, and department-wise load.
+
+Analyzed time-based trends (daily, weekly, monthly) to identify peak hours and high-pressure periods.
+
+Enabled better resource planning by highlighting bottlenecks in emergency response and patient handling.
+
+Tools & Technologies:
+Advanced Excel, Power Query, Power Pivot
